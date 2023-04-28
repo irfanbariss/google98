@@ -1,0 +1,47 @@
+body {
+    font-size: 16px;
+    text-align: center;
+}
+
+.search {
+
+    margin:  0px auto 3px ;  
+    width: 1000px;
+    height: 85px;
+    background-color: rgb(238,238,238);
+    
+}
+
+.menu{
+
+    display: flex;
+    margin: 0 auto ;
+    width: 1000px;
+    height: 85px;
+    
+}
+
+.left {
+
+    width: 37%;
+    background-color: rgb(126,229,218);
+    padding: 10px;
+    
+}
+
+.center {
+
+    width: 19%;
+    background-color: rgb(112,204,194);
+    margin-left: 2px;
+    
+}
+
+.right{
+
+    width: 40%;
+    background-color: rgb(98,179,170);
+    margin-left: 2px;
+
+}
+
